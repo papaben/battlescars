@@ -29,6 +29,19 @@ mysql -A
 # Better, set this in your my.cnf
 no-auto-rehash
 ```
+
+## Do not delete columns / tables / etc. lightly
+
+Migrating your database schema in general is no light matter. 
+
+1. Adding or updating a column can bring your application to a halt if the table is very large
+1. Adding a column before you've fully fleshed out the design can incur risky rename or type alteration costs
+
+_Deleting_ a column is almost always a risky change. Don't forget that _renaming_ or _updating_ a column is akin to deleting because your *code* won't necessarily know the column was renamed / changed. 
+
+If you're deleting a column, it's good practice to create a migration plan and get approval from senior leaders in your engineering & ops team. 
+
+
 # Temporary?
 
 Almost nothing ends up being temporary. Many more times than not, the hacks or fixes to temporarily punt a problem down the road end up sticking around for much longer than intended. Is this a problem? Not necessarily. Problems will get fixed correctly when their time comes; but the important takeaway from this is that method taken to implement a temporary fix and the supporting documentation around it (wiki, emails, communication, etc.) should be treated seriously. Their absence will otherwise most surely come back to bite you!
