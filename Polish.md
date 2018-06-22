@@ -1,4 +1,4 @@
-Some thoughts on the little behavior in the work place that combine to emanate a polished demeanor. 
+Some thoughts on the little behaviors in the work place that combine to emanate a polished demeanor. 
 
 # Always treat people like humans
 
