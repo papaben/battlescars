@@ -1,9 +1,9 @@
-Some thoughts on work place behaviors that combine to imprint a polished demeanor. 
+Some thoughts on the little behavior in the work place that combine to emanate a polished demeanor. 
 
 # Always treat people like humans
 
-If you lose your cool, attempt to do it in private
-Never be short with anyone at any level
+ * If you lose your cool, attempt to do it in private
+ * Never be short with anyone at any level
 
 # Sending emails
 
@@ -27,6 +27,12 @@ Ensure that the following are sent to the attendees.
 1. a summary
 1. meeting notes
 1. action items with assignees (or a plan for assigning)
+
+## When presenting and sharing your screen
+
+ * Disable all notifications
+ * Close your non-relevant browser windows
+ * When applicable: open the meeting participants window in a different window than the window you share
 
 # Task management
 
