@@ -32,6 +32,7 @@ Ensure that the following are sent to the attendees.
 
  * Disable all notifications
  * Close your non-relevant browser windows
+ * Have a functioning microphone and speakers / headphones. Know how to use them. Do not have background noise. Mute when applicable. 
  * When applicable: open the meeting participants window in a different window than the window you share
 
 # Task management
