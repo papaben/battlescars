@@ -12,6 +12,7 @@ Some thoughts on the little behaviors in the work place that combine to emanate 
 * Include links to relevant documents
 * Use BCC sparingly. When you do, always list who is BCC'ed as much as appropriate
 * Be light on op-ed unless the email context calls for that. You want to avoid the email chain devolving into a stream of opinions and losing focus on the original task at hand.
+* Pay attention to the squigglies -- misspellings rarely shine a positive light upon you
 
 # Running Meetings
 
