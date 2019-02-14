@@ -5,7 +5,12 @@ Some thoughts on the little behaviors in the work place that combine to emanate 
  * If you lose your cool, attempt to do it in private
  * Never be short with anyone at any level
 
-# Sending emails
+# Emails
+
+* Be aware they exist
+* Know when you should be responding: if and when
+
+## Sending emails
 
 * Use concise subjects
 * Get to the point quickly
@@ -14,9 +19,13 @@ Some thoughts on the little behaviors in the work place that combine to emanate 
 * Be light on op-ed unless the email context calls for that. You want to avoid the email chain devolving into a stream of opinions and losing focus on the original task at hand.
 * Pay attention to the squigglies -- misspellings rarely shine a positive light upon you
 
-# Running Meetings
+# Meetings
 
-## Scheduling
+* Be aware they exist!
+* Be on time!
+* Get good at using your calendar
+
+## Scheduling Meetings
 
 The description of the event should,
 1. Include relevant links
