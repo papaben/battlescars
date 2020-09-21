@@ -2,7 +2,7 @@
 
 # 1. The basics
 ## 1.1. Why Logs?
-Logs are a way to log what's going on in our application. Logs show up in the console or in log files on disk. See history of the term.
+Logs are a way to log what's going on in our application. Logs show up in the console or in log files on disk. See [history of the term](https://en.wikipedia.org/wiki/Logbook).
 
 
 ## 1.2. Logging Levels
