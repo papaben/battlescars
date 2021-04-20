@@ -41,6 +41,13 @@ _Deleting_ a column is almost always a risky change. Don't forget that _renaming
 
 If you're deleting a column, it's good practice to create a migration plan and get approval from senior leaders in your engineering & ops team. 
 
+## Long Running Processes That Use the Database
+
+A database server will typically only hold open a client connection for a fixed amount of time. 
+
+In the case of long-running processes (which can include a web server that doesn't get much traffic overnight), the client's connection may be terminated by the server unbeknownst to the client. The impact is that when the client next attempts to communicate with the database, an exception is raised. 
+
+If you're lucky, your client SDK code addresses this for you; but if you're not so lucky, then your best bet is to close and reestablish the connection automatically at relevant stages of your code or script. 
 
 # Temporary?
 
