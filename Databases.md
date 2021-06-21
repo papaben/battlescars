@@ -41,4 +41,14 @@ In the case of long-running processes (which can include a web server that doesn
 
 If you're lucky, your client SDK code addresses this for you; but if you're not so lucky, then your best bet is to close and reestablish the connection automatically at relevant stages of your code or script. 
 
+## Applying changes (migrations)
+
+> Use reliable internet
+
+When you will be applying any change that modifies state, ensure that your connection will not be interrupted.
+
+1. Your internet works
+2. Your power will not die
+
+If possible, use transactions to protect you from severed connections. This may not be a silver bullet since once a command starts on the remote server it won't necessarily terminate if your connection drops. 
 
