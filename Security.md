@@ -9,7 +9,7 @@ The goal of this page is to give developers a basic exposure to concepts and a s
 
 OWASP has provided a really great resource for educating first time web developers, which is available on their wiki at [OWASP Education](https://www.owasp.org/index.php/OWASP_Education_Presentation). I strongly suggest viewing the first presentation `Web Application Developer Security Training (2015)`.
 
-# 2. Categories of Security within the org
+# 2. Categories of Security
 
 A list of some various ways in which security plays a part in our lives at work.
 
@@ -28,7 +28,7 @@ A list of some various ways in which security plays a part in our lives at work.
  * Try as hard as possible to never type plaintext passwords anywhere except a hidden text input. This includes not typing them on the command line or chat messages.
  * If you need to type a password on the command line, you can use the shell `read -s` command line tool to save it into a variable. See https://stackoverflow.com/questions/3980668/how-to-get-a-password-from-a-shell-script-without-echoing
 
-# 2.3. Category: Compliance
+## 2.3. Category: Compliance
 Compliance is more concerned with ensuring protections and being able to report on violations/breaches. 
 
 Some examples,
@@ -37,7 +37,7 @@ Some examples,
  1. Logs of requests to a service or restricted resource. This is similar to audit trails.
  1. Proper access is in place to various sensitive resources or information
 
-# 2.4. Category: Human
+## 2.4. Category: Human
 
 In practice, the easiest and most common vector for hacks has been through people on the inside. The best security practices and conventions within the code can be meaningless if an attacker can pivot through an employee's privilege. 
 
@@ -45,13 +45,13 @@ In practice, the easiest and most common vector for hacks has been through peopl
 
 For starters, always use HTTPS and be very suspicious of any website that is only HTTP.
 
-## 2.4.2. Social Engineering
+### 2.4.2. Social Engineering
 
 Social engineering is a very real threat to security. Despite all the things listed above, well executed social engineering attacks are the common cause for many, many breaches.
 
 Learn more: https://en.wikipedia.org/wiki/Social_engineering_(security)
 
-### 2.4.2.1.What can you do?
+#### 2.4.2.1.What can you do?
 
 1. Don't trust anyone electronically. Always follow up in person.
 1. Don't click links in emails from anyone without verifying the safety
