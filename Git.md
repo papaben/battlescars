@@ -44,7 +44,7 @@ Side-note: The structure of a well-formed code comment is the subject of an enti
 
 ### Keep in mind...
 
-@ometimes the most important remarks to make may refer to what's been removed 
+Sometimes the most important remarks to make may refer to what's been removed 
 from the code, and not what's been added.
 
 
