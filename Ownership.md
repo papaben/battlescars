@@ -6,7 +6,7 @@ beautifully summed up by the "Don't Do Nothing" principle.
 
 I learned about the "Don't Do Nothing" principle from a great 
 article on the [Trello Blog](https://blog.trello.com/avoid-social-loafing). I
-immediatley incorporated it into my daily life and preached it to my team. 
+immediately incorporated it into my daily life and preached it to my team. 
 
 > In short, if you see a problem outside your area, *don't do nothing about it.*
 
